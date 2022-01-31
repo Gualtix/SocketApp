@@ -1,0 +1,11 @@
+{
+  "name": "socketapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mvn clean package && cd target && java -jar SocketApp.jar"
+  },
+  "author": "",
+  "license": "ISC"
+}
