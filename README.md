@@ -1,8 +1,9 @@
 # SocketApp
 ## Usage
-- Go to target and run: java -jar SocketApp.jar
+- (First)  Go to skserver/target and run: java -jar SkServer.jar 
+- (Second) Go to skclient/target and run: java -jar SkClient.jar 
 - This will up the Server and send an Object through Client.
-- Server Runs on a different thread but on the same jar.
+- Server and Client Runs on Diferrent Jars.
 - Binary File is stored at: C:\files\Vehicle.bin
 
 
